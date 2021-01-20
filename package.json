@@ -1,0 +1,22 @@
+{
+  "name": "tours",
+  "version": "1.0.0",
+  "description": "Landing page for Travel website",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzaib13/travel-webiste.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzaib13/travel-webiste/issues"
+  },
+  "homepage": "https://github.com/muzaib13/travel-webiste#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
